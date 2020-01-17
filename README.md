@@ -4,13 +4,16 @@
 
 Infinite stages including four random games, going up by rolling a dice.
 
+
 == Tools ==
 
 Designed and developed a video board game that users play random games getting scores at an infinite stair by using C on GBA(Game Boy Advance).
 
+
 == How To Play == 
 
 Player rolls a dice and goes up as much as the player get from the dice. Once the player arrives at the last level, a random game is executed. Player must clear the game to stay at the last level at the infinite stairs. Once the player clears the game, the player will continue rolling the dice and keep playing the game. Otherwise, the level before the last level where player got most recently is going to be the final score of the player.
+
 
 == Main Scene ==
 <img width="1114" alt="STAIRS_1" src="https://user-images.githubusercontent.com/42625171/72584606-ba5cc000-38b8-11ea-9efc-957c81d8b10a.png">
